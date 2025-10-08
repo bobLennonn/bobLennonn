@@ -7,7 +7,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-  I'm an aspiring Backend Developer from Brazil, passionate about building robust and scalable applications. As a Systems Analysis and Development student, I am dedicated to turning complex problems into elegant software solutions.
+  I'm an aspiring Backend Developer from Brazil, passionate about building robust and scalable applications. I am just having fun.
 </p>
 
 - 🔭 I’m currently seeking an entry-level or internship opportunity as a **Backend Developer**.
