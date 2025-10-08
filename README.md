@@ -4,11 +4,15 @@
 
 ###
 
-<img align="right" height="263" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN3ZmlieTN3YmIycHY0OHZxa3VrbTA5bHd4Z3E4ems3YnZ3YWE0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udhngZK2IFTc4/giphy.gif"  />
+<h1 align="center">Hello! 👋</h1>
 
 ###
 
-<h1 align="center">Hello! 👋</h1>
+<br clear="both">
+
+<div align="center">
+  <img height="270" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN3ZmlieTN3YmIycHY0OHZxa3VrbTA5bHd4Z3E4ems3YnZ3YWE0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udhngZK2IFTc4/giphy.gif"  />
+</div>
 
 ###
 
